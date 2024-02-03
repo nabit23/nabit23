@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi! My name is Nabit Karowadia, and I'm a senior at the College of Natural Sciences & Mathematics, University of Houston, pursuing a degree in Computer Science. I'm also a Business minor at the C.T. Bauer College of Business. I am currently seeking a challenging internship in software engineering, software design, data science, and web development.
+👋 Hi! My name is Nabit Karowadia, and I'm a senior at the College of Natural Sciences & Mathematics, University of Houston, pursuing a degree in Computer Science. I'm also a Business minor at the C.T. Bauer College of Business. I am currently seeking a challenging internship in software engineering, software design, data science, and web development.
 
 
 ## 🌐 Socials:
