@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi! My name is Nabit Karowadia, and I'm a senior at the College of Natural Sciences & Mathematics, University of Houston, pursuing a degree in Computer Science. I'm also a Business minor at the C.T. Bauer College of Business. I am seeking a challenging internship in software engineering, software design, data science, and web development.
-
+👋 👋 Hi! My name is Nabit Karowadia, and I'm a Computer Science graduate from the University of Houston.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TnHfnKQEJq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nabit-karowadia-848376224) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nabit23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nabit23) 
